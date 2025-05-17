@@ -45,7 +45,7 @@ function Home() {
 
         {/* Social Icons */}
         <div className="flex justify-center md:justify-start gap-6 mt-6 text-xl sm:text-2xl animate__animated animate__fadeInUp animate__delay-1s">
-          <a href="linkedin.com/in/harshal-khapekar-99418225b" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/harshal-khapekar-99418225b/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="text-black dark:text-white hover:text-blue-600 transition" />
           </a>
           <a href="https://github.com/HARSHAL360138" target="_blank" rel="noopener noreferrer">

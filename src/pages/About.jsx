@@ -117,7 +117,7 @@ function About() {
               text={
                 <>
                   Intern (MERN STACK Developer)<br />
-                  @ DevBee IT Solutions International Pvt. Ltd. Nagpur.
+                  @ Softtronix Software Services Pvt. Ltd., NAGPUR (IT Park)
                 </>
               }
             />
