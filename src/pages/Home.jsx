@@ -29,7 +29,7 @@ function Home() {
         {/* Buttons */}
         <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center md:justify-start animate__animated animate__fadeInUp animate__delay-1s">
           <a
-            href="/path-to-cv.pdf"
+            href="./src/assets/Harshal_Khapekar.pdf"
             download
             className="px-6 py-2 border border-black dark:border-white rounded-full text-black dark:text-white hover:bg-gray-100 dark:hover:bg-gray-800 transition text-sm sm:text-base"
           >
@@ -45,10 +45,10 @@ function Home() {
 
         {/* Social Icons */}
         <div className="flex justify-center md:justify-start gap-6 mt-6 text-xl sm:text-2xl animate__animated animate__fadeInUp animate__delay-1s">
-          <a href="https://linkedin.com/in/your-link" target="_blank" rel="noopener noreferrer">
+          <a href="linkedin.com/in/harshal-khapekar-99418225b" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="text-black dark:text-white hover:text-blue-600 transition" />
           </a>
-          <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/HARSHAL360138" target="_blank" rel="noopener noreferrer">
             <FaGithub className="text-black dark:text-white hover:text-gray-600 transition" />
           </a>
         </div>

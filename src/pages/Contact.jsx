@@ -74,7 +74,7 @@ function Contact() {
           <span className="text-base md:text-lg">+91 8669027241</span>
         </div>
         <a
-          href="https://linkedin.com" // <-- Replace with your actual LinkedIn
+          href="linkedin.com/in/harshal-khapekar-99418225b" // <-- Replace with your actual LinkedIn
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 text-gray-800 dark:text-gray-100 hover:text-blue-600 transition"

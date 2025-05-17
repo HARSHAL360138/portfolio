@@ -197,44 +197,49 @@ import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import 'animate.css';
-import Image1 from '../assets/image2.png';
+import Image1 from '../assets/Lovely-Classes.png';
+import Image2 from '../assets/Weather-App.png';
+import Image3 from '../assets/Restaurant.png';
+import Image4 from '../assets/Hoobank.png';
+import Image5 from '../assets/Hubnex.png';
+import Image6 from '../assets/Biynest.png';
 
 const projectData = [
   {
-    title: 'Explorify App',
+    title: 'Lovely Classes',
     image: Image1,
-    github: 'https://github.com/your-username/explorify',
-    demo: 'https://your-live-demo-link.com/explorify',
+    github: 'https://github.com',
+    demo: 'https://lovelyclasses.in/',
   },
   {
-    title: 'TimeSync App',
-    image: Image1,
-    github: 'https://github.com/your-username/timesync',
-    demo: 'https://your-live-demo-link.com/timesync',
+    title: 'Weather App',
+    image: Image2,
+    github: 'https://github.com/HARSHAL360138/weather-app',
+    demo: 'https://weather-app-one-delta-99.vercel.app/',
   },
   {
-    title: 'Hot Coffee App',
-    image: Image1,
-    github: 'https://github.com/your-username/hotcoffee',
-    demo: 'https://your-live-demo-link.com/hotcoffee',
+    title: 'Restaurant',
+    image: Image3,
+    github: 'https://github.com/HARSHAL360138/restaurant',
+    demo: 'https://restaurant-gilt-eta.vercel.app/',
   },
   {
-    title: 'FitTrack App',
-    image: Image1,
-    github: 'https://github.com/your-username/fittrack',
-    demo: 'https://your-live-demo-link.com/fittrack',
+    title: 'Hoobank',
+    image: Image4,
+    github: 'https://github.com/HARSHAL360138/Hoobank',
+    demo: 'https://hoobank-orcin.vercel.app/',
   },
   {
-    title: 'EduLearn App',
-    image: Image1,
-    github: 'https://github.com/your-username/edulearn',
-    demo: 'https://your-live-demo-link.com/edulearn',
+    title: 'Hubnex Invest',
+    image: Image5,
+    github: 'https://github.com/HARSHAL360138/hubnex',
+    demo: 'https://hubnex-xi.vercel.app/',
   },
   {
-    title: 'TaskMate App',
-    image: Image1,
-    github: 'https://github.com/your-username/taskmate',
-    demo: 'https://your-live-demo-link.com/taskmate',
+    title: 'BiyNest',
+    image: Image6,
+    github: 'https://github.com/HARSHAL360138/biynest-frontend',
+    demo: 'https://biynest-frontend.vercel.app/',
   },
 ];
 
