@@ -29,7 +29,7 @@ function Home() {
         {/* Buttons */}
         <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center md:justify-start animate__animated animate__fadeInUp animate__delay-1s">
           <a
-            href="./src/assets/Harshal_Khapekar.pdf"
+            href="/Harshal_Khapekar.pdf"
             download
             className="px-6 py-2 border border-black dark:border-white rounded-full text-black dark:text-white hover:bg-gray-100 dark:hover:bg-gray-800 transition text-sm sm:text-base"
           >
