@@ -116,7 +116,7 @@ function About() {
               title="Experience"
               text={
                 <>
-                  (MERN STACK Developer)<br />
+                  (Front End Developer)<br />
                   @ NKB Quantum Labs Pvt. Ltd., NAGPUR
                 </>
               }
