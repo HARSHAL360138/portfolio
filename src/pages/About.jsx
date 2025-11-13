@@ -117,7 +117,7 @@ function About() {
               text={
                 <>
                   (Front End Developer)<br />
-                  @ NKB Quantum Labs Pvt. Ltd., NAGPUR
+                  @ Softtronix Software Services Pvt. Ltd., NAGPUR
                 </>
               }
             />
